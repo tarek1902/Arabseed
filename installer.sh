@@ -1,10 +1,10 @@
 #!/bin/sh
 
-# wget -qO - https://github.com/tarek1902/raw/refs/heads/main/MagicPanelMax/installer.sh | /bin/sh
+# wget -qO - https://github.com/tarek1902/raw/refs/heads/main/Arabseed/installer.sh | /bin/sh
 
-PLUGIN_NAME="MagicPanelMax"
+PLUGIN_NAME="Arabseed"
 USERNAME="tarek1902"
-SUBPATH="MagicPanelMax"
+SUBPATH="Arabseed"
 ARCHIVE_FILE="MagicPanelMax_v12.0.tar.gz"
 
 PLUGIN_URL="https://github.com/${USERNAME}/${REPO}/raw/refs/heads/main/${SUBPATH}/${ARCHIVE_FILE}"
